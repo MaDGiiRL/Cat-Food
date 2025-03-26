@@ -1,3 +1,3 @@
-<x-layout title="FOODIE">
+<x-layout title="MeowVille">
 
 </x-layout>

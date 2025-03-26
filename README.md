@@ -1,13 +1,13 @@
-# 😽 Foodie - Powered by Laravel © Developed with ♡ by Sofia Vidotto
+# 😽 MeowVille - Powered by Laravel © Developed with ♡ by Sofia Vidotto
 
-Welcome to **Foodie**, the ultimate platform for cat lovers! ὣAὣBὣD
+Welcome to **MeowVille**, the ultimate platform for cat lovers! ὣAὣBὣD
 A website entirely dedicated to selling **100% natural cat food** ὀ8, with an AI assistant ready to help you choose the best nutrition for your feline. 
 
 ---
 
 ## 🎨 Project Overview
 
-**Foodie** is built with **Laravel 12** and uses **Laravel Fortify** to ensure secure authentication. Additionally, it integrates **Laravel Socialite** for social login, **OpenAI** for an intelligent AI assistant, and the API **https://api.thecatapi.com/** to fetch images and information about cats. ὣCὃ1
+**MeowVille** is built with **Laravel 12** and uses **Laravel Fortify** to ensure secure authentication. Additionally, it integrates **Laravel Socialite** for social login, **OpenAI** for an intelligent AI assistant, and the API **https://api.thecatapi.com/** to fetch images and information about cats. ὣCὃ1
 
 📌 **Main Features**:  
 - 😽 **Natural Cat Food** – Explore a selection of healthy and nutritious food for cats ὣA.  
@@ -40,8 +40,8 @@ Follow these steps to set up and run the project locally:
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/MaDGiiRL/foodie
-cd foodie
+git clone https://github.com/MaDGiiRL/MeowVille
+cd MeowVille
 ```
 
 ### 2️⃣ Install Dependencies  
