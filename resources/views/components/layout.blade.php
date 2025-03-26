@@ -26,7 +26,7 @@
 
     <x-navbar />
 
-    <div class="content py-3">
+
 
         <div class="min-vh-100">
 
@@ -36,7 +36,7 @@
 
         <x-footer />
 
-    </div>
+
 
 </body>
 

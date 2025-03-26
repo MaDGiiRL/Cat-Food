@@ -5,3 +5,134 @@
 body {
     font-family: "Poppins";
 }
+
+.active {
+    color: #B562A8;
+}
+
+.btn-custom {
+    background-color: #B562A8;
+    border: 1px solid #B562A8;
+    color: white;
+    transition: all 1s;
+}
+
+.btn-custom:hover {
+    background-color: #e77fd8;
+    border: 1px solid #e77fd8;
+    color: white;
+}
+
+.btn-custom-out {
+    border: 2px solid #B562A8;
+    color: #B562A8;
+    transition: all 1s;
+}
+
+.btn-custom-out:hover {
+    background-color: #B562A8;
+    border: 2px solid #B562A8;
+    color: white;
+}
+
+/* Navbar */
+a.nav-link {
+    color: #292929;
+    transition: all 1s;
+}
+
+a.nav-link:hover {
+    color: #B562A8;
+}
+
+ul.navbar-nav {
+    gap: 30px;
+}
+
+/*Backgrounds*/
+.bg-yellow {
+    background-color: #F9F1E7;
+}
+
+/*Typography*/
+.link-purple {
+    color: black;
+    transition: all 1s;
+}
+
+.link-purple:hover {
+    color: #B562A8;
+}
+
+
+
+/* Header */
+.hero {
+    position: relative;
+    background: url('https://source.unsplash.com/1600x900/?cat,woman') center/cover no-repeat;
+    height: 50vh;
+    color: white;
+}
+
+.hero-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.hero-content {
+    position: relative;
+    z-index: 2;
+    text-align: center;
+    padding: 20px;
+}
+
+.hero-title {
+    font-family: 'Pacifico', cursive;
+    font-size: 3rem;
+}
+
+.hero-subtitle {
+    font-size: 1.2rem;
+    max-width: 600px;
+    margin: auto;
+}
+
+.btn-custom {
+    background: #c76fb6;
+    color: white;
+    border-radius: 50px;
+    padding: 10px 20px;
+    transition: all 0.3s;
+}
+
+.btn-custom:hover {
+    background: #b059a3;
+}
+
+.service-card {
+    text-align: center;
+    border-radius: 15px;
+    padding: 20px;
+    background: #f9f5f0;
+    transition: 0.3s;
+}
+
+.service-card:hover {
+    transform: translateY(-5px);
+}
+
+.service-icon {
+    font-size: 40px;
+    background: #ff8c61;
+    color: white;
+    padding: 15px;
+    border-radius: 50%;
+}
+
+.service-card.purple .service-icon {
+    background: #c76fb6;
+}
